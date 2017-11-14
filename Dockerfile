@@ -111,7 +111,7 @@ RUN yum -y update && \
 		php-pecl-imagick \
 		php-pecl-memcache \
 		php-pecl-memcached \
-		php-pecl-mongodb \
+		php-pecl-mongo \
 		php-pecl-uploadprogress \
 		php-pecl-xdebug \
 		\
